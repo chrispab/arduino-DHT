@@ -5,6 +5,9 @@ An Arduino library for reading the DHT family of temperature and humidity sensor
 
 Written by Mark Ruys, <mark@paracas.nl>.
 
+Forked and Modded by me on 25/2/2019 so I can use as a submodule and add/modify this lib
+
+
 Features
 --------
   - Support for DHT11 and DHT22, AM2302, RHT03
