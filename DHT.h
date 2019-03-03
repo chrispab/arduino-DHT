@@ -29,11 +29,11 @@
 #ifndef dht_h
 #define dht_h
 
-#if ARDUINO < 100
-  #include <WProgram.h>
-#else
+// #if ARDUINO < 100
+//   #include <WProgram.h>
+// #else
   #include <Arduino.h>
-#endif
+//#endif
 
 class DHT
 {
